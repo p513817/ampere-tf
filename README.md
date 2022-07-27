@@ -1,4 +1,4 @@
-# Install NVIDIA-Tensorflow with Docker Container
+# Install Tensorflow in Docker Container For Ampere Arch
 
 # Reference
 * [Accelerating TensorFlow on NVIDIA A100 GPUs](https://developer.nvidia.com/blog/accelerating-tensorflow-on-a100-gpus/)
